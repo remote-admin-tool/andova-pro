@@ -101,6 +101,6 @@ Here when you need us. Thoughtful help from real people:
 
 ---
 
---- [![Andova-Pro profile views](https://u8views.com/api/v1/github/profiles/302245651/views/day-week-month-total-count.svg)](https://u8views.com/github/remote-admin-tool)
+[![Andova-Pro profile views](https://u8views.com/api/v1/github/profiles/302245651/views/day-week-month-total-count.svg)](https://u8views.com/github/remote-admin-tool)
 
 © 2025 Andova Pro. Made with love for caring & possessive ones.
