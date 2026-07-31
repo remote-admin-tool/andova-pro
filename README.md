@@ -26,7 +26,7 @@ Andova Pro brings everything you need for smart family care into one intuitive d
 
 - **Auto-Destruct** — Remotely delete the app from the device via the dashboard with no traces left behind.
 
-- **Advanced Capabilities** — Not listing them here due to Guideline violation.
+- **Advanced Capabilities** — Not listing them here due to Guideline violation. ⚠️💀
 
 ---
 
