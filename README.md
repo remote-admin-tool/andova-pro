@@ -50,9 +50,9 @@ Everything your family needs, with one transparent payment. No recurring fees.
 
 | Plan | Price | What You Get |
 | --- | --- | --- |
-| **Lifetime Access** | **$34.75 (One-time)** | Unlimited devices, live location, remote controls, stealth mode, camera snaps, gallery access, Live screen and lifetime updates. No restrictions, no delays. |
+| **Lifetime Access** | **$34.75 (One-time)** | Unlimited devices, live location, remote controls, stealth mode, camera snaps, gallery access, Live screen and more. (Not listed due to Guideline) No restrictions, no delays. |
 
-👉 **Get Lifetime Access now at **[**andova.online/**](https://andova.online/)
+👉 **Get Lifetime Access now at **[**andova.online/**]**(https://andova.online/)
 
 ---
 
