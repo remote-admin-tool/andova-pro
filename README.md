@@ -77,7 +77,7 @@ Here is a look at the Andova Pro dashboard and app interface in action:
 <div align="center">
 <table>
     <tr>
-      <td align="center"><b>Step 1: Create Account</b>  
+      <td align="center"><b>Step 1: Log in</b>  
 <img src="images/steps/step1.jpeg" width="200" alt="Account Creation"></td>
       <td align="center"><b>Step 2: Add Device</b>  
 <img src="images/steps/step2.jpeg" width="200" alt="Add Device"></td>
