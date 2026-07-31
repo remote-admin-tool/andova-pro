@@ -20,11 +20,13 @@ Andova Pro brings everything you need for smart family care into one intuitive d
 
 - **Gallery & File Access** — View, download, and manage files and gallery content seamlessly.
 
-- **Remote Controls** — Activate the flashlight, trigger alarms, and perform fun commands like TTS or pranks.
+- **Remote Controls** — Activate the flashlight, trigger alarms, Live Screen session and perform fun commands like TTS or pranks.
 
 - **Stealth Mode** — The app automatically grants necessary permissions and hides itself after installation.
 
 - **Auto-Destruct** — Remotely delete the app from the device via the dashboard with no traces left behind.
+
+- - **Advanced Capabilities** — Not listing them here due to Guideline violation.
 
 ---
 
