@@ -1,4 +1,4 @@
-# Andova Pro
+# Andova Pro📱🧑‍💻✨
 
 **Advanced Device Management Tool With GUI**
 
@@ -72,7 +72,7 @@ Here is a look at the Andova Pro dashboard and app interface in action:
 
 ![Andova Pro Dashboard](https://private-us-east-1.manuscdn.com/sessionFile/meZe3Q6JebhXXRLbs0z4QS/sandbox/2kE3RqUY04mYzzFFkqFueX-images_1785460932077_na1fn_L2hvbWUvdWJ1bnR1L2dpdGh1Yi1wYWdlcy9pbWFnZXMvZGVza3RvcDI.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvbWVaZTNRNkplYmhYWFJMYnMwejRRUy9zYW5kYm94LzJrRTNScVVZMDRtWXp6RkZrcUZ1ZVgtaW1hZ2VzXzE3ODU0NjA5MzIwNzdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyZHBkR2gxWWkxd1lXZGxjeTlwYldGblpYTXZaR1Z6YTNSdmNESS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgyMjA4MDB9fX1dfQ__&Key-Pair-Id=K2QY5QTL8JSY6C&Signature=MEUCIQDzplYLcUogPiqrJCSMyZYcliz2qsTgdqlD~-NKE12iFQIgbBBv0~NM69zBGqOCEbkEQBaJNBUcv4Q8eTiQ1OFqtMY_)
 
-### Setup & Control
+### Setup & Control (Easy Peasy)
 
 <div align="center">
 <table>
@@ -100,5 +100,7 @@ Here when you need us. Thoughtful help from real people:
 - **Telegram:** [Message us directly](https://t.me/jrram3000)
 
 ---
+
+--- [![Andova-Pro profile views](https://u8views.com/api/v1/github/profiles/302245651/views/day-week-month-total-count.svg)](https://u8views.com/github/remote-admin-tool)
 
 © 2025 Andova Pro. Made with love for caring & possessive ones.
