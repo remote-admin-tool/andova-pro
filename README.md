@@ -1,5 +1,7 @@
 # Andova Pro📱🧑‍💻✨
-
+<p align="center">
+  <img src="images/banner.png" alt="Andova Banner" width="100%">
+</p>
 **Advanced Device Management Tool With GUI (Graphics User Interface)**
 
 Stay gently connected to the people you love, wherever life takes them. Andova Pro provides a beautifully designed, powerful dashboard that helps families manage and care for their devices with absolute confidence.
